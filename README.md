@@ -1,11 +1,11 @@
 # covid-tracker
-##About Project##
+## About Project ##
 This is command line based python project which scrap data from internet and show all covid-19 details.
 
-##Requirments##
+## Requirments ##
 python >= 3.6
 
-##Dependencies##
+## Dependencies ##
 bs4
 plyer
 requests
